@@ -12,6 +12,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.UserSettingsApp">
         <activity
+            android:name=".ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SettingsViewerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity_profile"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
