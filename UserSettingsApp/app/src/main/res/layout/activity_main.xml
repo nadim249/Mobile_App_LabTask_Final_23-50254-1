@@ -103,7 +103,6 @@
                 app:layout_constraintTop_toBottomOf="@id/spinnerLang"
                 app:layout_constraintStart_toStartOf="parent" />
 
-            <!-- SeekBar Max will be 12 (to represent 12 to 24 range) -->
             <SeekBar
                 android:id="@+id/seekBarFont"
                 android:layout_width="0dp"

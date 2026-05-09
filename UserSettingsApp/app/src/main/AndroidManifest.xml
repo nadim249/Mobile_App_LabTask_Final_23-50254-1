@@ -18,9 +18,6 @@
             android:name=".SettingsViewerActivity"
             android:exported="false" />
         <activity
-            android:name=".activity_profile"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
