@@ -14,13 +14,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.StudentCourseManager">
         <activity
-            android:name=".AddCourseActivity"
+            android:name=".CourseDetailActivity"
             android:exported="false" />
         <activity
             android:name=".EditCourseActivity"
             android:exported="false" />
         <activity
-            android:name=".CourseDetailActivity"
+            android:name=".AddCourseActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
