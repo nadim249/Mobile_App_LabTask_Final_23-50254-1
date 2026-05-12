@@ -1,5 +1,8 @@
-package com.example.universitynewsapp
+package com.example.universitynewsapp.network
 
+import com.example.universitynewsapp.model.Comment
+import com.example.universitynewsapp.model.Post
+import com.example.universitynewsapp.model.User
 import retrofit2.http.GET
 import retrofit2.http.Path
 

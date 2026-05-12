@@ -1,4 +1,4 @@
-package com.example.universitynewsapp
+package com.example.universitynewsapp.network
 
 
 import okhttp3.OkHttpClient
