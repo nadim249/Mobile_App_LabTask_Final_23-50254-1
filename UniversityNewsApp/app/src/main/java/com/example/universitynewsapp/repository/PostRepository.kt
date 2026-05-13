@@ -1,6 +1,5 @@
 package com.example.universitynewsapp.repository
 
-
 import com.example.universitynewsapp.network.RetrofitClient
 
 class PostRepository {
